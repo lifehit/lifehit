@@ -7,9 +7,9 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GAMES101：Rasterization - Shadow Mapping](https://limeya.github.io/2022/05/06/shadow-mapping-924b68b1e8814ed783b783453abc7918/)
-- [GAMES101-12：Geometry - Mesh Operations](https://limeya.github.io/2022/05/06/games101-12-geometry-mesh-operations/)
-- [GAMES101-11-2：Geometry - Bézier Surfaces](https://limeya.github.io/2022/05/06/games101-11-2-geometry-bezier-surfaces/)
-- [GAMES101-11-1：Geometry - Curves](https://limeya.github.io/2022/05/04/games101-11-1-geometry-curves/)
-- [GAMES101-10：Geometry - Implicit Representations](https://limeya.github.io/2022/05/03/games101-10-geometry-implicit-representations/)
+- [利用Notion API+Github Actions回顾阅读的文章](https://limeya.github.io/2022/05/22/efficient/li-yong-notion-api-github-actions-hui-gu-yue-du-de-wen-zhang/)
+- [GAMES101：Rasterization - Shadow Mapping](https://limeya.github.io/2022/05/06/cg/games/games101-rasterization-shadow-mapping/)
+- [GAMES101-12：Geometry - Mesh Operations](https://limeya.github.io/2022/05/06/cg/games/games101-12-geometry-mesh-operations/)
+- [GAMES101-11-2：Geometry - Bézier Surfaces](https://limeya.github.io/2022/05/06/cg/games/games101-11-2-geometry-bezier-surfaces/)
+- [GAMES101-11-1：Geometry - Curves](https://limeya.github.io/2022/05/04/cg/games/games101-11-1-geometry-curves/)
 <!-- BLOG-POST-LIST:END -->
