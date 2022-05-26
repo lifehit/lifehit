@@ -1,6 +1,9 @@
-### About Me :
+### About Me : 
+
 🛠 My blog <a href="https://lifehit.cn/">lifehit.cn</a><br>
 📫 Reach me at <a href="mailto:lmy86263@gmail.com">lmy86263@gmail.com</a><br><br>
+
+<p><img src="https://gpvc.arturio.dev/iamsatyajit05"><p>
 
 ### 📊 My Github Stats :
 [![Li Mengyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=limeya&show_icons=true&theme=dracula)](https://github.com/limeya/limeya)
@@ -13,3 +16,4 @@
 - [GAMES101-11-2：Geometry - Bézier Surfaces](https://limeya.github.io/2022/05/06/cg/games/games101-11-2-geometry-bezier-surfaces/)
 - [GAMES101-11-1：Geometry - Curves](https://limeya.github.io/2022/05/04/cg/games/games101-11-1-geometry-curves/)
 <!-- BLOG-POST-LIST:END -->
+
