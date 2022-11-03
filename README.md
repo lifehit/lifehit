@@ -10,10 +10,10 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C++中的可变参数使用总结](https://limeya.github.io/2022/11/03/bian-cheng-zhi-dao/c-zhong-de-ke-bian-can-shu-shi-yong-zong-jie/)
+- [C++中的函数参数传递](https://limeya.github.io/2022/11/02/bian-cheng-zhi-dao/c-zhong-de-han-shu-can-shu-chuan-di/)
 - [C++中的字符串](https://limeya.github.io/2022/10/31/bian-cheng-zhi-dao/c-zhong-de-zi-fu-chuan/)
 - [Vulkan的Execution Model](https://limeya.github.io/2022/10/30/ji-suan-ji-tu-xing-xue/vulkan/vulkan-de-execution-model/)
 - [Virtual Memory（3）：Page fault](https://limeya.github.io/2022/10/30/ji-suan-ji-ji-chu/virtual-memory-3-page-fault/)
-- [Virtual Memory（2）：使用page table加快page的查找](https://limeya.github.io/2022/10/30/ji-suan-ji-ji-chu/virtual-memory-2-shi-yong-page-table-jia-kuai-page-de-cha-zhao/)
-- [Virtual Memory（1）：简介](https://limeya.github.io/2022/10/29/ji-suan-ji-ji-chu/virtual-memory-1-jian-jie/)
 <!-- BLOG-POST-LIST:END -->
 
