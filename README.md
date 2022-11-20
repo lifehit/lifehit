@@ -10,10 +10,10 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C++内存管理：shared_ptr](https://limeya.github.io/2022/11/20/bian-cheng-zhi-dao/c-nei-cun-guan-li-shared-ptr/)
+- [C++内存管理：基本知识与new-delete的使用](https://limeya.github.io/2022/11/16/bian-cheng-zhi-dao/c-nei-cun-guan-li-ji-ben-zhi-shi-yu-new-delete-de-shi-yong/)
 - [C++内存管理：weak_ptr](https://limeya.github.io/2022/11/13/bian-cheng-zhi-dao/c-nei-cun-guan-li-weak-ptr/)
 - [C++内存管理：智能指针与unique_ptr](https://limeya.github.io/2022/11/12/bian-cheng-zhi-dao/c-nei-cun-guan-li-zhi-neng-zhi-zhen-yu-unique-ptr/)
 - [C++的变量及其初始化](https://limeya.github.io/2022/11/09/bian-cheng-zhi-dao/c-de-bian-liang-ji-qi-chu-shi-hua/)
-- [Python中的参数传递方式](https://limeya.github.io/2022/11/06/bian-cheng-zhi-dao/python-zhong-de-can-shu-chuan-di-fang-shi/)
-- [Virtual Memory（4）：page table过大如何解决？](https://limeya.github.io/2022/11/06/ji-suan-ji-ji-chu/virtual-memory-4-page-table-guo-da-ru-he-jie-jue/)
 <!-- BLOG-POST-LIST:END -->
 
