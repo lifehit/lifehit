@@ -10,10 +10,10 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C++内存管理：使用new和智能指针操作dynamic array](https://limeya.github.io/2022/11/25/bian-cheng-zhi-dao/c-nei-cun-guan-li-shi-yong-new-he-zhi-neng-zhi-zhen-cao-zuo-dynamic-array/)
 - [C++内存管理：智能指针、异常与自定义deleter的关系](https://limeya.github.io/2022/11/24/bian-cheng-zhi-dao/c-nei-cun-guan-li-zhi-neng-zhi-zhen-yi-chang-yu-zi-ding-yi-deleter-de-guan-xi/)
 - [C++内存管理：shared_ptr](https://limeya.github.io/2022/11/20/bian-cheng-zhi-dao/c-nei-cun-guan-li-shared-ptr/)
 - [C++内存管理：基本知识与new-delete的使用](https://limeya.github.io/2022/11/16/bian-cheng-zhi-dao/c-nei-cun-guan-li-ji-ben-zhi-shi-yu-new-delete-de-shi-yong/)
 - [C++内存管理：weak_ptr](https://limeya.github.io/2022/11/13/bian-cheng-zhi-dao/c-nei-cun-guan-li-weak-ptr/)
-- [C++内存管理：智能指针与unique_ptr](https://limeya.github.io/2022/11/12/bian-cheng-zhi-dao/c-nei-cun-guan-li-zhi-neng-zhi-zhen-yu-unique-ptr/)
 <!-- BLOG-POST-LIST:END -->
 
